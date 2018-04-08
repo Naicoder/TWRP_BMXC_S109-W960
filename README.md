@@ -18,7 +18,7 @@ To recovery build in omni sources
 
 	$ cd ~/you_twrp_source_foldel/
     $ . build/envsetup.sh
-    $ lunch omni_S109-eng
+    $ lunch omni_W960-eng
     $ make -j5 recoveryimage
 
 ## Thanks to:
